@@ -1,0 +1,324 @@
+Chosen operation: Addition
+Augend: 5
+Addend: 6
+Sum: 11
+
+
+Chosen operation: Addition
+Augend: -3750
+Addend: 5952
+Sum: 2202
+
+
+Chosen operation: Addition
+Augend: -151
+Addend: -372
+Sum: -523
+
+
+Chosen operation: Addition
+Augend: 564
+Addend: -667
+Sum: -103
+
+
+Chosen operation: Subtraction
+Minuend: 400
+Subtrahend: 550
+Difference: -150
+
+
+Chosen operation: Subtraction
+Minuend: 74
+Subtrahend: -432
+Difference: 506
+
+
+Chosen operation: Subtraction
+Minuend: -493
+Subtrahend: -295
+Difference: -198
+
+
+Chosen operation: Subtraction
+Minuend: -479
+Subtrahend: 300
+Difference: -779
+
+
+Chosen operation: Average
+First number: 280.0
+Second number: 80.0
+Average: 180.0
+
+
+Chosen operation: Average
+First number: 388.0
+Second number: -392.0
+Average: -2.0
+
+
+Chosen operation: Average
+First number: -150.0
+Second number: -175.0
+Average: -162.5
+
+
+Chosen operation: Average
+First number: -290.0
+Second number: 170.0
+Average: -60.0
+
+
+Chosen operation: Square
+Number to square: 25
+Square: 625
+
+
+Chosen operation: Square
+Number to square: -16
+Square: 256
+
+
+Chosen operation: Square
+Number to square: 9
+Square: 81
+
+
+Chosen operation: Square
+Number to square: -12
+Square: 144
+
+
+Chosen operation: Maximum
+First number: 480
+Second number: 118
+Maximum: 480
+
+
+Chosen operation: Maximum
+First number: 5
+Second number: 99
+Maximum: 99
+
+
+Chosen operation: Maximum
+First number: -112
+Second number: -324
+Maximum: -112
+
+
+Chosen operation: Maximum
+First number: -328
+Second number: -200
+Maximum: -200
+
+
+Chosen operation: Maximum
+First number: 19
+Second number: -500
+Maximum: 19
+
+
+Chosen operation: Maximum
+First number: 157
+Second number: -84
+Maximum: 157
+
+
+Chosen operation: Maximum
+First number: -415
+Second number: 392
+Maximum: 392
+
+
+Chosen operation: Maximum
+First number: -25
+Second number: 86
+Maximum: 86
+
+
+Chosen operation: Minimum
+First number: 480
+Second number: 118
+Minimum: 118
+
+
+Chosen operation: Minimum
+First number: 5
+Second number: 99
+Minimum: 5
+
+
+Chosen operation: Minimum
+First number: -112
+Second number: -324
+Minimum: -324
+
+
+Chosen operation: Minimum
+First number: -328
+Second number: -200
+Minimum: -328
+
+
+Chosen operation: Minimum
+First number: 19
+Second number: -500
+Minimum: -500
+
+
+Chosen operation: Minimum
+First number: 157
+Second number: -84
+Minimum: -84
+
+
+Chosen operation: Minimum
+First number: -415
+Second number: 392
+Minimum: -415
+
+
+Chosen operation: Minimum
+First number: -25
+Second number: 86
+Minimum: -25
+
+
+Chosen operation: Division
+Dividend: 900.0
+Divisor: 20.0
+Quotient: 45.00
+
+
+Chosen operation: Division
+Dividend: 12.0
+Divisor: 25.0
+Quotient: 0.48
+
+
+Chosen operation: Division
+Dividend: -25.0
+Divisor: 5.0
+Quotient: -5.00
+
+
+Chosen operation: Division
+Dividend: -13.0
+Divisor: 26.0
+Quotient: -0.50
+
+
+Chosen operation: Multiplication
+Multiplicand: 25
+Multiplier: 13
+Product: 325
+
+
+Chosen operation: Multiplication
+Multiplicand: -80
+Multiplier: 4
+Product: -320
+
+
+Chosen operation: Multiplication
+Multiplicand: 17
+Multiplier: -5
+Product: -85
+
+
+Chosen operation: Multiplication
+Multiplicand: -20
+Multiplier: -5
+Product: 100
+
+
+Chosen operation: Modulo
+Dividend: 903
+Divisor: 20
+Remainder: 3
+
+
+Input 'T' is invalid.
+
+Chosen operation: Modulo
+Dividend: -294
+Divisor: 60
+Remainder: -54
+
+
+Chosen operation: Modulo
+Dividend: -258
+Divisor: -80
+Remainder: -18
+
+
+Chosen operation: Modulo
+Dividend: 474
+Divisor: -40
+Remainder: 34
+
+
+Chosen operation: Modulo
+Dividend: 20
+Divisor: 100
+Remainder: 20
+
+
+Chosen operation: Addition
+Augend: 90
+Addend: 60
+Sum: 150
+
+
+Chosen operation: Multiplication
+Multiplicand: 14
+Multiplier: -2
+Product: -28
+
+
+Chosen operation: Subtraction
+Minuend: 100
+Subtrahend: 100
+Difference: 0
+
+
+Chosen operation: Division
+Dividend: -55.0
+Divisor: 5.0
+Quotient: -11.00
+
+
+Chosen operation: Modulo
+Dividend: 400
+Divisor: 22
+Remainder: 4
+
+
+Chosen operation: Average
+First number: 89.0
+Second number: 85.0
+Average: 87.0
+
+
+Chosen operation: Minimum
+First number: 250
+Second number: -400
+Minimum: -400
+
+
+Chosen operation: Square
+Number to square: 22
+Square: 484
+
+
+Chosen operation: Maximum
+First number: -434
+Second number: 22
+Maximum: 22
+
+
+Input 'y' is invalid.
+
+Exiting Menu!

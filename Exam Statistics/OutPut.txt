@@ -1,0 +1,113 @@
+Student ID: 2034
+17 correct 17 wrong
+Total answered is 34
+Number omitted is 16
+Grade is 34
+Same number of correct & wrong answers
+Correct answer percentage is 0.500
+10 or more omitted
+
+Student ID: 8756
+15 correct 15 wrong
+Total answered is 30
+Number omitted is 20
+Grade is 30
+Same number of correct & wrong answers
+Correct answer percentage is 0.500
+10 or more omitted
+
+Student ID: 4424
+33 correct 17 wrong
+Total answered is 50
+Number omitted is 0
+Grade is 66
+More correct than wrong
+Correct answer percentage is 0.660
+Less than 10 omitted
+
+Student ID: 1718
+0 correct 50 wrong
+Total answered is 50
+Number omitted is 0
+Grade is 0
+More wrong than correct
+Correct answer percentage is 0.000
+Less than 10 omitted
+
+Student ID: 2347
+30 correct 0 wrong
+Total answered is 30
+Number omitted is 20
+Grade is 60
+More correct than wrong
+Correct answer percentage is 1.000
+10 or more omitted
+
+Student ID: 3646
+12 correct 30 wrong
+Total answered is 42
+Number omitted is 8
+Grade is 24
+More wrong than correct
+Correct answer percentage is 0.286
+Less than 10 omitted
+
+Student ID: 4917
+11 correct 21 wrong
+Total answered is 32
+Number omitted is 18
+Grade is 22
+More wrong than correct
+Correct answer percentage is 0.344
+10 or more omitted
+
+Student ID: 5212
+33 correct 12 wrong
+Total answered is 45
+Number omitted is 5
+Grade is 66
+More correct than wrong
+Correct answer percentage is 0.733
+Less than 10 omitted
+
+Student ID: 6443
+27 correct 9 wrong
+Total answered is 36
+Number omitted is 14
+Grade is 54
+More correct than wrong
+Correct answer percentage is 0.750
+10 or more omitted
+
+Student ID: 1120
+21 correct 5 wrong
+Total answered is 26
+Number omitted is 24
+Grade is 42
+More correct than wrong
+Correct answer percentage is 0.808
+10 or more omitted
+
+Student ID: 1010
+3 correct 2 wrong
+Total answered is 5
+Number omitted is 45
+Grade is 6
+More correct than wrong
+Correct answer percentage is 0.600
+10 or more omitted
+
+
+Student ID: 614
+41 correct 9 wrong
+Total answered is 50
+Number omitted is 0
+Grade is 82
+More correct than wrong
+Correct answer percentage is 0.820
+Less than 10 omitted
+
+Student ID: 2097
+Student cannot answer more than 50 questions.
+
+Total number of students: 13

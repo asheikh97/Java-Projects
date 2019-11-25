@@ -1,0 +1,18 @@
+The horse ate the apple and the donkey ate the apple
+
+The       4
+horse     1
+ate       2
+apple     2
+and       1
+donkey    1
+
+
+and       1
+apple     2
+ate       2
+donkey    1
+horse     1
+The       4
+
+

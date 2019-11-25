@@ -1,0 +1,274 @@
+First score: -198
+Second score: -397
+Third score: -395
+Score 1: -198 is invalid because it is negative.
+Score 2: -397 is invalid because it is negative.
+Score 3: -395 is invalid because it is negative.
+
+First score: 242
+Second score: 293
+Third score: 146
+The group is valid.
+Score 1 is 242: Excellent game
+Score 2 is 293: Professional game
+Score 3 is 146: Very good game
+Average score is 227: Excellent game
+
+First score: 340
+Second score: -341
+Third score: -368
+Score 1: 340 is invalid because it is greater than 300.
+Score 2: -341 is invalid because it is negative.
+Score 3: -368 is invalid because it is negative.
+
+First score: 400
+Second score: -256
+Third score: 0
+Score 1: 400 is invalid because it is greater than 300.
+Score 2: -256 is invalid because it is negative.
+The group is valid.
+Score 1 is 400: Horrible game
+Score 2 is -256: Horrible game
+Score 3 is 0: Horrible game
+Average score is 48: Horrible game
+
+First score: 191
+Second score: 240
+Third score: 300
+The group is valid.
+Score 1 is 191: Very good game
+Score 2 is 240: Excellent game
+Score 3 is 300: Professional game
+Average score is 243: Excellent game
+
+First score: 225
+Second score: 159
+Third score: 70
+The group is valid.
+Score 1 is 225: Excellent game
+Score 2 is 159: Very good game
+Score 3 is 70: Poor game
+Average score is 151: Very good game
+
+First score: 112
+Second score: 299
+Third score: 269
+The group is valid.
+Score 1 is 112: Good game
+Score 2 is 299: Professional game
+Score 3 is 269: Professional game
+Average score is 226: Excellent game
+
+First score: 281
+Second score: 146
+Third score: 231
+The group is valid.
+Score 1 is 281: Professional game
+Score 2 is 146: Very good game
+Score 3 is 231: Excellent game
+Average score is 219: Excellent game
+
+First score: 200
+Second score: 400
+Third score: 100
+Score 2: 400 is invalid because it is greater than 300.
+The group is valid.
+Score 1 is 200: Excellent game
+Score 2 is 400: Horrible game
+Score 3 is 100: Good game
+Average score is 233: Excellent game
+
+First score: 300
+Second score: 200
+Third score: -45
+Score 3: -45 is invalid because it is negative.
+
+First score: -223
+Second score: -87
+Third score: -126
+Score 1: -223 is invalid because it is negative.
+Score 2: -87 is invalid because it is negative.
+Score 3: -126 is invalid because it is negative.
+
+First score: -100
+Second score: 220
+Third score: 300
+Score 1: -100 is invalid because it is negative.
+The group is valid.
+Score 1 is -100: Horrible game
+Score 2 is 220: Excellent game
+Score 3 is 300: Professional game
+Average score is 140: Very good game
+
+First score: 273
+Second score: 124
+Third score: 160
+The group is valid.
+Score 1 is 273: Professional game
+Score 2 is 124: Good game
+Score 3 is 160: Very good game
+Average score is 185: Very good game
+
+First score: 435
+Second score: -134
+Third score: 126
+Score 1: 435 is invalid because it is greater than 300.
+Score 2: -134 is invalid because it is negative.
+The group is valid.
+Score 1 is 435: Horrible game
+Score 2 is -134: Horrible game
+Score 3 is 126: Good game
+Average score is 142: Very good game
+
+First score: 106
+Second score: 282
+Third score: 162
+The group is valid.
+Score 1 is 106: Good game
+Score 2 is 282: Professional game
+Score 3 is 162: Very good game
+Average score is 183: Very good game
+
+First score: 100
+Second score: 100
+Third score: 100
+The group is valid.
+Score 1 is 100: Good game
+Score 2 is 100: Good game
+Score 3 is 100: Good game
+Average score is 100: Good game
+
+First score: 270
+Second score: 208
+Third score: 157
+The group is valid.
+Score 1 is 270: Professional game
+Score 2 is 208: Excellent game
+Score 3 is 157: Very good game
+Average score is 211: Excellent game
+
+First score: 182
+Second score: 229
+Third score: 468
+Score 3: 468 is invalid because it is greater than 300.
+The group is valid.
+Score 1 is 182: Very good game
+Score 2 is 229: Excellent game
+Score 3 is 468: Horrible game
+Average score is 293: Professional game
+
+First score: 119
+Second score: -343
+Third score: 242
+Score 2: -343 is invalid because it is negative.
+The group is valid.
+Score 1 is 119: Good game
+Score 2 is -343: Horrible game
+Score 3 is 242: Excellent game
+Average score is 6: Horrible game
+
+First score: -121
+Second score: 23
+Third score: 185
+Score 1: -121 is invalid because it is negative.
+The group is valid.
+Score 1 is -121: Horrible game
+Score 2 is 23: Horrible game
+Score 3 is 185: Very good game
+Average score is 29: Horrible game
+
+First score: 247
+Second score: 423
+Third score: 238
+Score 2: 423 is invalid because it is greater than 300.
+The group is valid.
+Score 1 is 247: Excellent game
+Score 2 is 423: Horrible game
+Score 3 is 238: Excellent game
+Average score is 302: Horrible game
+
+First score: 169
+Second score: 132
+Third score: -320
+Score 3: -320 is invalid because it is negative.
+
+First score: 22
+Second score: 143
+Third score: 310
+Score 3: 310 is invalid because it is greater than 300.
+The group is valid.
+Score 1 is 22: Horrible game
+Score 2 is 143: Very good game
+Score 3 is 310: Horrible game
+Average score is 158: Very good game
+
+First score: 96
+Second score: -332
+Third score: 138
+Score 2: -332 is invalid because it is negative.
+The group is valid.
+Score 1 is 96: Poor game
+Score 2 is -332: Horrible game
+Score 3 is 138: Good game
+Average score is -32: Horrible game
+
+First score: 200
+Second score: 300
+Third score: 100
+The group is valid.
+Score 1 is 200: Excellent game
+Score 2 is 300: Professional game
+Score 3 is 100: Good game
+Average score is 200: Excellent game
+
+First score: 199
+Second score: 251
+Third score: 60
+The group is valid.
+Score 1 is 199: Very good game
+Score 2 is 251: Professional game
+Score 3 is 60: Poor game
+Average score is 170: Very good game
+
+First score: 72
+Second score: -371
+Third score: 183
+Score 2: -371 is invalid because it is negative.
+The group is valid.
+Score 1 is 72: Poor game
+Score 2 is -371: Horrible game
+Score 3 is 183: Very good game
+Average score is -38: Horrible game
+
+First score: -310
+Second score: -221
+Third score: 46
+Score 1: -310 is invalid because it is negative.
+Score 2: -221 is invalid because it is negative.
+The group is valid.
+Score 1 is -310: Horrible game
+Score 2 is -221: Horrible game
+Score 3 is 46: Horrible game
+Average score is -161: Horrible game
+
+First score: 55
+Second score: 102
+Third score: 436
+Score 3: 436 is invalid because it is greater than 300.
+The group is valid.
+Score 1 is 55: Poor game
+Score 2 is 102: Good game
+Score 3 is 436: Horrible game
+Average score is 197: Very good game
+
+First score: 421
+Second score: 191
+Third score: -45
+Score 1: 421 is invalid because it is greater than 300.
+Score 3: -45 is invalid because it is negative.
+
+
+
+Total number of groups: 30
+Number of Valid groups: 24
+Number of invalid groups: 6

@@ -1,0 +1,197 @@
+	*** ORIGINAL DATABASE ***
+
+Account number: 1852
+Account Balance: $450.20
+
+Account number: 9535
+Account Balance: $282.15
+
+Account number: 4241
+Account Balance: $369.43
+
+Account number: 3190
+Account Balance: $441.21
+
+Account number: 6516
+Account Balance: $259.11
+
+Account number: 3188
+Account Balance: $331.00
+
+Account number: 9067
+Account Balance: $567.54
+
+	*** TELLER TRANSACTIONS ***
+
+Transaction Type: Withdrawal
+Account number: 1852
+Amount to withdraw: $202.13
+Old Balance: $450.20
+New Balance: $248.07
+
+Transaction Type: Withdrawal
+Account number: 3190
+Amount to withdraw: $500.23
+Insufficient funds!
+
+Transaction Type: Withdrawal
+Account number: 6516
+Account 6516 does not exist!
+
+Transaction Type: Withdrawal
+Account number: 9067
+Amount to withdraw: $55.62
+Old Balance: $567.54
+New Balance: $511.92
+
+Transaction Type: Withdrawal
+Account number: 4424
+Account 4424 does not exist!
+
+Transaction Type: Deposit
+Account number: 9535
+Amount to deposit: $212.56
+Old Balance: $282.15
+New Balance: $494.71
+
+Transaction Type: Deposit
+Account number: 6516
+Invalid -56.12 deposit input!
+
+Transaction Type: Deposit
+Account number: 1852
+Amount to deposit: $438.25
+Old Balance: $248.07
+New Balance: $686.32
+
+Transaction Type: Deposit
+Account number: 9696
+Account 9696 does not exist!
+
+Input 'T' is invalid.
+
+Transaction Type: Balance
+Account number: 4241
+Account Balance: $369.43
+
+Transaction Type: Balance
+Account number: 1121
+Account 1121 does not exist!
+
+Transaction Type: Balance
+Account number: 3188
+Account Balance: $331.00
+
+Transaction Type: New Account
+New account 7210 created
+New Account Balance: $0.00
+
+Input 'L' is invalid.
+
+Transaction Type: New Account
+New account 5578 created
+New Account Balance: $0.00
+
+Transaction Type: New Account
+Account 3190 already exists!
+
+Transaction Type: New Account
+Account 1852 already exists!
+
+Transaction Type: New Account
+New account 6269 created
+New Account Balance: $0.00
+
+Transaction Type: Delete Account
+Account number: 6269
+Account 6269 was deleted.
+
+Transaction Type: New Account
+New account 6024 created
+New Account Balance: $0.00
+
+Transaction Type: Deposit
+Account number: 6024
+Amount to deposit: $999.00
+Old Balance: $0.00
+New Balance: $999.00
+
+Transaction Type: Deposit
+Account number: 7210
+Amount to deposit: $550.35
+Old Balance: $0.00
+New Balance: $550.35
+
+Transaction Type: Deposit
+Account number: 5578
+Amount to deposit: $150.00
+Old Balance: $0.00
+New Balance: $150.00
+
+Transaction Type: Withdrawal
+Account number: 7210
+Amount to withdraw: $255.40
+Old Balance: $550.35
+New Balance: $294.95
+
+Transaction Type: Withdrawal
+Account number: 5578
+Amount to withdraw: $150.00
+Old Balance: $150.00
+New Balance: $0.00
+
+Transaction Type: Withdrawal
+Account number: 6024
+Amount to withdraw: $347.32
+Old Balance: $999.00
+New Balance: $651.68
+
+Transaction Type: Delete Account
+Account number: 1852
+Error, Non-Zero Balance for account 1852
+
+Transaction Type: Delete Account
+Account number: 5578
+Account 5578 was deleted.
+
+Transaction Type: Delete Account
+Account number: 5443
+Account 5443 does not exist.
+
+Transaction Type: Balance
+Account number: 5578
+Account 5578 does not exist!
+
+Transaction Type: Balance
+Account number: 7210
+Account Balance: $294.95
+
+	*** FINAL DATABASE ***
+
+Account number: 1852
+Account Balance: $686.32
+
+Account number: 9535
+Account Balance: $494.71
+
+Account number: 4241
+Account Balance: $369.43
+
+Account number: 3190
+Account Balance: $441.21
+
+Account number: 6516
+Account Balance: $259.11
+
+Account number: 3188
+Account Balance: $331.00
+
+Account number: 9067
+Account Balance: $511.92
+
+Account number: 7210
+Account Balance: $294.95
+
+Account number: 6024
+Account Balance: $651.68
+
