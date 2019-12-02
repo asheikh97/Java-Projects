@@ -1,4 +1,4 @@
-# Programming in Java 
+# Programming in Java ☕️
 My academic projects for a Programming in Java course  
 
 ## What you can expect 
