@@ -9,17 +9,17 @@ import java.io.*;
 import java.util.Scanner;
 
 public class    BankAccounts{
-    //Uses a do-while loop to control a switch case for different operations
+    
     public static void main(String[] args)throws IOException{
 
-        //open input file & create scanner object to read file
+        // open input file & create scanner object to read file
         File myfile = new File("myinput");
         Scanner inputFile = new Scanner(myfile);
 
-        //output file
+        // output file
         PrintWriter outPut = new PrintWriter(new File("OutPut.txt"));
-        //PrintWriter outPut = new PrintWriter(System.out);
-        //user input
+        // PrintWriter outPut = new PrintWriter(System.out);
+        // user input
         Scanner kybd = new Scanner(System.in);
 
         //declare variables & arrays
@@ -37,6 +37,7 @@ public class    BankAccounts{
 
         boolean notDone = true;
         outPut.println("\t*** TELLER TRANSACTIONS ***\n");
+        // Uses a do-while loop to control a switch case for different operations
         do {
             // print menu
             menu();
@@ -82,6 +83,7 @@ public class    BankAccounts{
         inputFile.close();
         kybd.close();
     }
+    
     /*
         This method only displays the menu. The main program then prompts the user for a selection.
         You should verify that the user has typed in a valid selection
@@ -96,6 +98,7 @@ public class    BankAccounts{
                 "X - Delete Account\n" +
                 "Q – Quit\n");
     }
+    
     /*
        This method fills up the account number and balance arrays
        (up to maxAccts) and returns the actual number of accounts read in
@@ -115,6 +118,7 @@ public class    BankAccounts{
         }
         return count;
     }
+    
     /*
         This method returns the index of account in the acctNum array if the account
         exists, and -1 if it doesn't. It is called by the remaining methods.
@@ -126,6 +130,7 @@ public class    BankAccounts{
         }
         return -1;
     }
+    
     /*
        This method prompts the user for the account number. If the account does not exist,
        it prints an error message. Otherwise, it asks the user for the amount of the withdrawal.
@@ -155,6 +160,7 @@ public class    BankAccounts{
         else
             outFile.println("Account " + acct + " does not exist!\n");
     }
+    
     /*
        This method prompts the user for the account number. If the account does not exist,
        it prints an error message. Otherwise, it asks the user for the amount of the deposit.
@@ -179,6 +185,7 @@ public class    BankAccounts{
         else
             outFile.println("Invalid " + deposit + " deposit input!\n");
     }
+    
     /*
        This method prompts the user for a new account number. If the account already exists,
        it prints an error message. Otherwise, it adds the account to the acctNum array with
@@ -200,6 +207,7 @@ public class    BankAccounts{
             outFile.println("Account " + newNum + " already exists!\n");
         return numAccts;
     }
+    
     /*
        This method prompts the user for an account number. If the account does not exist,
        it prints an error message. Otherwise, it prints the account balance.
@@ -215,8 +223,8 @@ public class    BankAccounts{
         else
             outFile.printf("Account Balance: $" + "%.2f" + "\n\n",balance[acctIndex]);
     }
+    
     // This method prints all customer information--account number and balance.
-
     public static void printAccts(int[] acctNum, double[] balance, int numAccts, PrintWriter outFile){
         for (int i = 0; i < numAccts; i++){
             outFile.println("Account number: " + acctNum[i]);
@@ -224,6 +232,7 @@ public class    BankAccounts{
             outFile.println("\n");
         }
     }
+    
     /*
         EXTRA CREDIT #2
         This method prompts the user for an account number. If the account does not exist,
