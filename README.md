@@ -1,5 +1,5 @@
 # Programming in Java ☕️
-My academic projects for a Programming in Java course  
+My academic projects from a Programming in Java course  
 
 ## What you can expect 
 
